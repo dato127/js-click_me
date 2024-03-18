@@ -5,7 +5,7 @@ function changeColors() {
         "rgba(227, 5, 5, 0.575)",
         "rgba(33,33,33)",
         "orange",
-        "yellow",
+        "rgba(33,33,33)",
         "green",
         "pourple"
         
