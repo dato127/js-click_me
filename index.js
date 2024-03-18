@@ -2,7 +2,7 @@ var index = 0;
 
 function changeColors() {
     var colors = [
-        "red",
+        "rgba(227, 5, 5, 0.575)",
         "rgba(33,33,33)",
         "orange",
         "yellow",
